@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> Mi pagina web </title>
+
+<left> <center><h4><H1><font color="mediumseagreen">"Karl Marx"</font></H1></h4></center></left>
+
+<body bgcolor=" yellow">
+
+<IMG>
+
+<center><img src= "Karl.jpg" "heigth=200px width=200px"></center>
+
+<left> <center><h4><H2><font color="mediumseagreen">Padre del socialismo cientifico</font></H2></h4></center></left>
+
+<p style="tex-aling:justify;">Filosofo que desarrollo una serie   economista de ideas que critican el sistema capitalista.
+Karl Heinrich marx fue un filosofo comunista, sociologo, periodista, intelectual y militante  comunista alemán judío.
+Marx representa una de las figuras más influyentes de la historia humana y sus teorias sobre la sociedad, la economia y la politica son considerados las bases del marxismo.
+</p>
+
+<left> <center><h4><H2><font color="mediumseagreen">Teoria Marxista</font></H2></h4></center></left>
+
+<left>¿Qué es?</left>
+
+<p style="tex-aling:justify;">La teoría marxista es un conjunto de ideas políticas, económicas y sociales creadas a mediados del siglo XIX por Karl Marx y su colaborador Friedrich Engels, que consisten en modificar el orden social y criticar el capitalismo, que tuvieron gran repercusión e influencia en diversos acontecimientos del siglo XX.
+</p>
+
+<left> <center><h4><H2><font color="mediumseagreen">Frase</font></H2></h4></center></left>
+
+<p style="tex-aling:justify;">“crees en el amor como propiedad divina por que amas. Crees que Dios es sabio y bondadoso porque no conoces algo superior en tí mismo que la bondad y la inteligencia y crees que Dios existe, que es un ser, porque tú mismo existes y eres un ser”.
+</p>
+
+<p style="tex-aling:justify;">Esta frase aun se sigue aplicando hoy en dia ya que la sociedad sigue creyendo en lo que la religión o medio de comunicación dice no toma cierto tiempo para investigar y se creen todo  un ejemplo es cuando se anuncia cirto tipo de problema mundial y los medios  empieza a decir que es grave la gente lo cree.
+Y se llega a la conclución  que la realidad o  verdad es lo que  la gente quiere creer y no van por la razón y la logica y siguen creyendo de lo que digan cierto poder.
+</p>
+
+
+</body>
+</head>
+</html>
